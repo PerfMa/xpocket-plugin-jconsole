@@ -1,3 +1,16 @@
+/*.iml
+/*.ipr
+/*.iws
+/.classpath
+/.factorypath
+/.idea
+/.project
+/.settings
+/nb*
+/release.properties
+/target
+.DS_Store
+
 # Compiled class file
 *.class
 
@@ -18,6 +31,22 @@
 *.zip
 *.tar.gz
 *.rar
+
+# These are needed if running in IDE without properties set
+/ibderby
+derby.log
+/bin/
+*/*.iml
+*.iml
+*.class
+*.zip
+*.gz
+*.jar
+*.so
+*.dylib
+*.so.1.1
+*/target/*
+**/target/**
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

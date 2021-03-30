@@ -1,0 +1,13 @@
+plugin-name=jconsole
+plugin-namespace=JDK
+plugin-version=1.0.0-RELEASE
+plugin-author=PerfMa
+plugin-project=https://github.com/PerfMa/xpocket-plugin-jconsole
+plugin-type=java-tools
+plugin-dependency=
+jdk-version=all
+jvm=hotspot
+os=all
+sys-dependency=
+plugin-command-package=com.perfma.xpocket.plugin.jconsole.cli.command.definition
+main-implementation=com.perfma.xpocket.plugin.jconsole.cli.JconsolePlugin
