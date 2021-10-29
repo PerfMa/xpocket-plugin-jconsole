@@ -1,6 +1,7 @@
 plugin-name=jconsole
 plugin-namespace=JDK
 plugin-version=1.0.0-RELEASE
+plugin-description=XPocket plugin implementation of JConsole.\n The JConsole is a monitoring tool that complies to the Java Management Extensions (JMX) specification. JConsole uses the extensive instrumentation of the Java Virtual Machine (Java VM) to provide information about the performance and resource consumption of applications running on the Java platform. \n Learn more : https://plugin.xpocket.perfma.com/plugin/55
 plugin-author=PerfMa
 plugin-project=https://github.com/PerfMa/xpocket-plugin-jconsole
 plugin-type=java-tools
